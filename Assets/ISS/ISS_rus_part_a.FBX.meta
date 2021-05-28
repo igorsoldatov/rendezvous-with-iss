@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: bc831104755e80a449bc9a28c6e2c237
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ISS_2
+    100002: Iss_3_panels
+    100004: ISS_B_zv_det001
+    100006: ISS_firstblock_
+    100008: ISS_firstblocksvet
+    100010: ISS_Low_zv_b005
+    100012: iss_pirs_body_b
+    100014: ISS_pirs_detb
+    100016: ISS_rama_b
+    100018: //RootNode
+    100020: Iss_zv_det3_b
+    100022: Iss_zv_ent005
+    100024: iss_zv_golova
+    100026: ISS_zv_Wire008
+    100028: Iss_zvezd_enter
+    100030: iss_zvezda_3_det
+    100032: ISS_zvezda_battary
+    100034: Iss_zvezda_wires
+    100036: Object060
+    100038: poisk_b_det
+    100040: poisk_main_b
+    100042: Text008
+    100044: zad_center002
+    100046: ' Inner_element_02'
+    100048: Inner_element
+    100050: Luck
+    400000: ISS_2
+    400002: Iss_3_panels
+    400004: ISS_B_zv_det001
+    400006: ISS_firstblock_
+    400008: ISS_firstblocksvet
+    400010: ISS_Low_zv_b005
+    400012: iss_pirs_body_b
+    400014: ISS_pirs_detb
+    400016: ISS_rama_b
+    400018: //RootNode
+    400020: Iss_zv_det3_b
+    400022: Iss_zv_ent005
+    400024: iss_zv_golova
+    400026: ISS_zv_Wire008
+    400028: Iss_zvezd_enter
+    400030: iss_zvezda_3_det
+    400032: ISS_zvezda_battary
+    400034: Iss_zvezda_wires
+    400036: Object060
+    400038: poisk_b_det
+    400040: poisk_main_b
+    400042: Text008
+    400044: zad_center002
+    400046: ' Inner_element_02'
+    400048: Inner_element
+    400050: Luck
+    2300000: ISS_2
+    2300002: Iss_3_panels
+    2300004: ISS_B_zv_det001
+    2300006: ISS_firstblock_
+    2300008: ISS_firstblocksvet
+    2300010: ISS_Low_zv_b005
+    2300012: iss_pirs_body_b
+    2300014: ISS_pirs_detb
+    2300016: ISS_rama_b
+    2300018: Iss_zv_det3_b
+    2300020: Iss_zv_ent005
+    2300022: iss_zv_golova
+    2300024: ISS_zv_Wire008
+    2300026: Iss_zvezd_enter
+    2300028: iss_zvezda_3_det
+    2300030: ISS_zvezda_battary
+    2300032: Iss_zvezda_wires
+    2300034: Object060
+    2300036: poisk_b_det
+    2300038: poisk_main_b
+    2300040: Text008
+    2300042: zad_center002
+    2300044: ' Inner_element_02'
+    2300046: Inner_element
+    2300048: Luck
+    3300000: ISS_2
+    3300002: Iss_3_panels
+    3300004: ISS_B_zv_det001
+    3300006: ISS_firstblock_
+    3300008: ISS_firstblocksvet
+    3300010: ISS_Low_zv_b005
+    3300012: iss_pirs_body_b
+    3300014: ISS_pirs_detb
+    3300016: ISS_rama_b
+    3300018: Iss_zv_det3_b
+    3300020: Iss_zv_ent005
+    3300022: iss_zv_golova
+    3300024: ISS_zv_Wire008
+    3300026: Iss_zvezd_enter
+    3300028: iss_zvezda_3_det
+    3300030: ISS_zvezda_battary
+    3300032: Iss_zvezda_wires
+    3300034: Object060
+    3300036: poisk_b_det
+    3300038: poisk_main_b
+    3300040: Text008
+    3300042: zad_center002
+    3300044: ' Inner_element_02'
+    3300046: Inner_element
+    3300048: Luck
+    4300000: iss_pirs_body_b
+    4300002: iss_zvezda_3_det
+    4300004: Text008
+    4300006: ISS_firstblocksvet
+    4300008: Iss_zv_ent005
+    4300010: ISS_B_zv_det001
+    4300012: zad_center002
+    4300014: ISS_Low_zv_b005
+    4300016: poisk_main_b
+    4300018: poisk_b_det
+    4300020: ISS_zv_Wire008
+    4300022: ISS_2
+    4300024: Iss_3_panels
+    4300026: Iss_zvezda_wires
+    4300028: iss_zv_golova
+    4300030: Iss_zvezd_enter
+    4300032: Iss_zv_det3_b
+    4300034: ISS_pirs_detb
+    4300036: ISS_zvezda_battary
+    4300038: ISS_firstblock_
+    4300040: Object060
+    4300042: ISS_rama_b
+    4300044: Inner_element
+    4300046: ' Inner_element_02'
+    4300048: Luck
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

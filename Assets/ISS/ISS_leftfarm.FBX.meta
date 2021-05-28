@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 0b9373ffdcef92344a6487088c35fdfa
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: iss_bat_a001
+    100002: iss_ELC2_2
+    100004: iss_farm_right_c001
+    100006: //RootNode
+    100008: iss_panel_photo2
+    100010: iss_pho_battary_opa008
+    100012: iss_pho_battary_opa009
+    100014: iss_photoele006
+    100016: iss_photoele007
+    100018: iss_photoele008
+    100020: iss_photoele009
+    100022: S007
+    100024: s1-anileft
+    100026: iss_pho_battary_opa006
+    100028: iss_pho_battary_opa007
+    400000: iss_bat_a001
+    400002: iss_ELC2_2
+    400004: iss_farm_right_c001
+    400006: //RootNode
+    400008: iss_panel_photo2
+    400010: iss_pho_battary_opa008
+    400012: iss_pho_battary_opa009
+    400014: iss_photoele006
+    400016: iss_photoele007
+    400018: iss_photoele008
+    400020: iss_photoele009
+    400022: S007
+    400024: s1-anileft
+    400026: iss_pho_battary_opa006
+    400028: iss_pho_battary_opa007
+    2300000: iss_bat_a001
+    2300002: iss_ELC2_2
+    2300004: iss_farm_right_c001
+    2300006: iss_panel_photo2
+    2300008: iss_pho_battary_opa008
+    2300010: iss_pho_battary_opa009
+    2300012: iss_photoele006
+    2300014: iss_photoele007
+    2300016: iss_photoele008
+    2300018: iss_photoele009
+    2300020: S007
+    2300022: s1-anileft
+    2300024: iss_pho_battary_opa006
+    2300026: iss_pho_battary_opa007
+    3300000: iss_bat_a001
+    3300002: iss_ELC2_2
+    3300004: iss_farm_right_c001
+    3300006: iss_panel_photo2
+    3300008: iss_pho_battary_opa008
+    3300010: iss_pho_battary_opa009
+    3300012: iss_photoele006
+    3300014: iss_photoele007
+    3300016: iss_photoele008
+    3300018: iss_photoele009
+    3300020: S007
+    3300022: s1-anileft
+    3300024: iss_pho_battary_opa006
+    3300026: iss_pho_battary_opa007
+    4300000: iss_bat_a001
+    4300002: iss_photoele006
+    4300004: iss_photoele007
+    4300006: iss_panel_photo2
+    4300008: S007
+    4300010: iss_pho_battary_opa008
+    4300012: iss_photoele008
+    4300014: iss_photoele009
+    4300016: iss_pho_battary_opa009
+    4300018: iss_farm_right_c001
+    4300020: s1-anileft
+    4300022: iss_ELC2_2
+    4300024: iss_pho_battary_opa006
+    4300026: iss_pho_battary_opa007
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 1fe358954a7d52247ae217854eec5e55
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Box101
+    100002: iss_Cupol1
+    100004: iss_cupol_glass
+    100006: iss_destiny_dets
+    100008: iss_destinybody_b
+    100010: iss_rama_a
+    100012: //RootNode
+    100014: ISS_zarya_dets
+    100016: Iss_zarya_panels
+    100018: iss_zarya_perila
+    100020: ISS_zaryaCloth_low
+    100022: Object068
+    100024: unityBody
+    100026: unityHandles
+    400000: Box101
+    400002: iss_Cupol1
+    400004: iss_cupol_glass
+    400006: iss_destiny_dets
+    400008: iss_destinybody_b
+    400010: iss_rama_a
+    400012: //RootNode
+    400014: ISS_zarya_dets
+    400016: Iss_zarya_panels
+    400018: iss_zarya_perila
+    400020: ISS_zaryaCloth_low
+    400022: Object068
+    400024: unityBody
+    400026: unityHandles
+    2300000: Box101
+    2300002: iss_Cupol1
+    2300004: iss_cupol_glass
+    2300006: iss_destiny_dets
+    2300008: iss_destinybody_b
+    2300010: iss_rama_a
+    2300012: ISS_zarya_dets
+    2300014: Iss_zarya_panels
+    2300016: iss_zarya_perila
+    2300018: ISS_zaryaCloth_low
+    2300020: Object068
+    2300022: unityBody
+    2300024: unityHandles
+    3300000: Box101
+    3300002: iss_Cupol1
+    3300004: iss_cupol_glass
+    3300006: iss_destiny_dets
+    3300008: iss_destinybody_b
+    3300010: iss_rama_a
+    3300012: ISS_zarya_dets
+    3300014: Iss_zarya_panels
+    3300016: iss_zarya_perila
+    3300018: ISS_zaryaCloth_low
+    3300020: Object068
+    3300022: unityBody
+    3300024: unityHandles
+    4300000: ISS_zarya_dets
+    4300002: Box101
+    4300004: ISS_zaryaCloth_low
+    4300006: iss_zarya_perila
+    4300008: iss_rama_a
+    4300010: Iss_zarya_panels
+    4300012: iss_destinybody_b
+    4300014: iss_destiny_dets
+    4300016: unityHandles
+    4300018: unityBody
+    4300020: Object068
+    4300022: iss_Cupol1
+    4300024: iss_cupol_glass
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
